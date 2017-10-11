@@ -5,6 +5,11 @@
 You probably want [`imagemin-mozjpeg`](https://github.com/imagemin/imagemin-mozjpeg) instead.
 
 
+## patch
+
+In order to prevent downloading difficultly in China area, I decided to change the code and push 
+bin files to npm so as to use it directly.
+
 ## Install
 
 ```
